@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhilash Bharathi</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">A passionate Full Stack Javascript | Flutter Developer</h3>
 
 - 🔭 I’m currently working on [Full Stack Blog App](https://abhi-codr.github.io/blog-app-react/)
 
