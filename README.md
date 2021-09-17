@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhilash Bharathi</h1>
 <h3 align="center">A passionate Full Stack Javascript | Flutter Developer</h3>
 
-- 🔭 I’m currently working on [Full Stack Blog App](https://abhi-codr.github.io/blog-app-react/)
+- 🔭 I’m currently working on [Full Stack Blog App](https://github.com/Abhi-codr/blog-app-react)
 
 - 🌱 I’m currently learning **Data Science**
 
