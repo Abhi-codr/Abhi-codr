@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Full Stack Blog App](https://github.com/Abhi-codr/blog-app-react)
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **GraphQL**
 
 - 💬 Ask me about **React, Express.js, Mongodb and SQL**
 
