@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [Full Stack Blog App](https://github.com/Abhi-codr/blog-app-react)
 
-- 🌱 I’m currently learning **GraphQL**
+- 🌱 I’m currently learning **ML**
 
 - 💬 Ask me about **React, Express.js, Mongodb and SQL**
 
 - 📫 How to reach me **abhilash.bharathi.bk@gmail.com**
 
-- ⚡ Fun fact **I think I have a good sense of humour**
+- ⚡ Fun fact **I think I'm funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
